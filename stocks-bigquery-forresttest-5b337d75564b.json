@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stocks-bigquery-forresttest",
+  "private_key_id": "5b337d75564b73678b60fa657c04354f5443dd85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvCtqAuuB/9x0D\no7nmH8oLeKMGx4fC+wIzvOjzXnhpJ5w0j0dqs3uiIFwK5/M+YoXoQgOOShdWt2Js\nEwN0NtJzWGJA3aJ+xWO4XhbpE7RC2Aq5T3AImKedoi+7jicIJTg5OjMqeFaWO7go\nTMRNn3BWLmZg47ZRWT8rALKjv9CWTcpsmZzZqrokXbWnlvGGkLtJEFTRJBQjEpAh\nCnx4kVZqVsJoA7OMJuOXvLSGcPUFKpGDNjs6n2StwkRRX8vrwk2yNVLA3sS/rEXH\nNMleCY6XFiKmBC3KM9WIC6UGrKeBcPRmBgXV6pYDOttkyI5Ve8WY0N69Le61Vg+l\n2wlQAYWxAgMBAAECggEAC58Tufl+S3yteFcD0gGhDVEreLkhXDqET0lO6Y6HfcrH\nkg1Ds3O6ZP2TQtWaxpTtuUl9uTIV2dfn0M9T2sDDiO0wq8gTQGmsSNq1WHDqlkgH\n8TzzDh0NftecZe5GjOHEuXbx2/Nco1GQdNuA6nroD066FRt1OLItUZZ0pc7Hw1zH\naGMuwQWpV1+9q/5Ecf7e4afB6ME2YXwZNEied4hZqAhP1sC8gzIoMFrlMKoJk2kP\nLHkf6cvzUCT2joU91Ldcb4E2IEQXX7xqzWb1ZqzRv0510AK1M7YH7kY/AucylCjp\noWuHF+QyUEfBCDoufXObTxODheiLjN9bEORDgo/QKQKBgQDgVBLvJ8Rz6Y5Lx3iF\nV8l149BWpEyyrVdL1/qMOhQK+i9h4GbDyk2Mm/0NR0q+RtnuyelODEvDFV1+Rpjm\nX1oqrkd+/Sz0Od8EV1Omnb8C8hQgUb+5rJfJC1jQUl36Oc50CBAVJZJ8p2bbnqMf\nrCjFLhBaa5YNYHw6EOMRAhjGKQKBgQDHwW4CxCLWsqcq4OFCblET/KtXb16e2a/I\nYLHvKVOqNsxuujE67GJjiWPLQBtOzYQW7doyZeW4ZzLJ2kdwSOOnFijJiSfDi3/A\noo7fmPB+xFUz4Ktfn6ilWlIpiyHh1eYwa2y4e9iPtReTQNeWcOU6m+8hdTTr61ez\nk0H51GFkSQKBgQDcbEAelqjGbJvRgjK+c0AVgsBYIiDrAMBiWdpqpzbCgorEVcck\nY0hH/Y5s2bxrsxq5M9T3R8W57uhrB9t9ofvrLEw8T3E4mRS2I0ii0yW5MzzrdOg6\n/Yg3l9qw9/43vU1LXhDPdpe1vJeo/Pu0R2nYNicDceuDQWdPdwBm2fSV4QKBgHjJ\n2Ujo6xwiSX1fIDc4V+SbG8yyNmgdv/KNreqtdb7uhe3Kvuwfdlsz/9kueZTMJzxq\nNU/WV/OKy6ZNTHd0S9yERMOhIR9YYjbM1VIVvA8bj13gVCBtfeAG3rnqPOG/owLS\nYpqnoMs9OPU892AsAiDPm+kCY67oz05yFCoKp52pAoGBAJE7DF+vFCqfSuCIzddZ\naAYteFB5CFIRCKdMNvfzmanoZF/qBQY+hvhubCFCMVs+i0A9QqMWx6/vFdSKd1Q9\nv8fRgR2FY9UgjJhJjGLps7P+QXeM9dCIh9byU6jSzn5+55DBFayoSAlzZ6THUqma\nTXWeWLRLucJoJbYvSwkaZIF4\n-----END PRIVATE KEY-----\n",
+  "client_email": "stocks-bigquery@stocks-bigquery-forresttest.iam.gserviceaccount.com",
+  "client_id": "102055520366642270240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stocks-bigquery%40stocks-bigquery-forresttest.iam.gserviceaccount.com"
+}
