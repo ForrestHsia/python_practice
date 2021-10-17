@@ -1,3 +1,4 @@
+.gitignore
 #google cloud plate 相關檔案
 stocks-bigquery-forresttest-5b337d75564b.json #auth
 requirements.txt #部屬所需相依package
